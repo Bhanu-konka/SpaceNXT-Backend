@@ -1,0 +1,7 @@
+Backend/.env
+agnets/.env
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+certs/
